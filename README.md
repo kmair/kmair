@@ -18,7 +18,7 @@ Web Frameworks and APIs: Flask, Plotly, Dash, Hug
 
 ## Summary
 - ✍ Check my blogs [here](https://kanishkmair.com/)
-- 🌍 Visit my [homepage](https://kmair.github.io/personal-website/)
+- 🌍 Visit my [homepage](https://kmair.github.io/web/)
 - 🛠 I’m currently working on my website
 - 👯 I’m looking to collaborate on interesting visualization, NLP and data science projects
 - 🌱 I’m currently learning deploying ML projects using Docker
